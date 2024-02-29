@@ -1,4 +1,4 @@
-# global-pinia
+# portafolio-fressya
 
 ## Project setup
 ```
